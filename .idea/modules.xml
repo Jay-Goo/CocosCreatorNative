@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CocosCreatorNative.iml" filepath="$PROJECT_DIR$/.idea/modules/CocosCreatorNative.iml" group="CocosCreatorNative" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibNativeCocos/LibNativeCocos.iml" filepath="$PROJECT_DIR$/.idea/modules/LibNativeCocos/LibNativeCocos.iml" group="CocosCreatorNative/LibNativeCocos" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TestDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TestDemo.iml" group="CocosCreatorNative/TestDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libcocos2dx/libcocos2dx.iml" filepath="$PROJECT_DIR$/.idea/modules/libcocos2dx/libcocos2dx.iml" group="CocosCreatorNative/libcocos2dx" />
+    </modules>
+  </component>
+</project>
