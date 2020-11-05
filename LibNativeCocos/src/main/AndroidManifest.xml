@@ -1,0 +1,19 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="jaygoo.cocos.libnativecocos">
+
+    <meta-data android:name="android.app.lib_name"
+        android:value="cocos2djs" />
+
+    <application>
+        <activity
+            android:name="jaygoo.cocos.libnativecocos.AppActivity"
+            android:screenOrientation="sensorLandscape"
+            android:configChanges="orientation|keyboardHidden|screenSize|screenLayout"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:launchMode="singleTask"
+            />
+    </application>
+
+
+</manifest>
